@@ -6,7 +6,7 @@ using System.IO;
 
  500
  -200;kolo
- 100;kino
+ -100;kino
 */
 namespace pokladnidenik
 {
